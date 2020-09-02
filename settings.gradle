@@ -1,2 +1,3 @@
+include ':ViewPager2Transformer'
 include ':app'
 rootProject.name = "ViewPager2Transformer"
