@@ -4,15 +4,15 @@ Transformers for ViewPager2, most effects are rewritten from [ViewPagerTransform
 
 ### Transformers for Horizontal orientation
 
-<img src="./previews/horizontal-transforms.gif" alt="horizontal-transforms" style="zoom:33%;" />
+<img src="./previews/horizontal-transforms.gif" alt="horizontal-transforms" width="360px" />
 
 ### Vertical is also supported, thanks to [ViewPager2](https://developer.android.com/training/animation/vp2-migration)
 
-<img src="./previews/vertical-transforms.gif" alt="vertical-transforms" style="zoom:33%;" />
+<img src="./previews/vertical-transforms.gif" alt="vertical-transforms" width="360px" />
 
 ### Padding is supported for CarouselTransformer (others will be supported later)
 
-<img src="./previews/carousel-horizontal-padding.gif" alt="carousel-horizontal-padding" style="zoom:33%;" />
+<img src="./previews/carousel-horizontal-padding.gif" alt="carousel-horizontal-padding" width="360px" />
 
 
 
